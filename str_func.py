@@ -1,3 +1,7 @@
 def upper(string):
-    """Функуция увеличения члена"""
+    """uvelchivaem bukvy"""
     return string.upper()
+
+def upfisrtword(string):
+    """delaem pervuiy bukvu"""
+    return string.title()
